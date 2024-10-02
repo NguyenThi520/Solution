@@ -1,0 +1,1 @@
+Hello! I am Nguyen Thi. The solution file is the solution to the lab 1 excersise. I created the file and put it inside the assets file and it will work like that. I don't know how to upload the entire file including the original images and other thing
